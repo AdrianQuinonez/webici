@@ -10,3 +10,10 @@
 .imagenreg{
   background-image: url("https://i.pinimg.com/236x/d9/3b/20/d93b20ec01715b3d4abda2e9bfa312c2.jpg");
 }
+.logoci, .logoru{
+  width: 130px;
+}
+#mainNav .container #navbarResponsive #navlis .nav-item a:hover{
+  color: #01c5c4;
+}
+.masthead 
